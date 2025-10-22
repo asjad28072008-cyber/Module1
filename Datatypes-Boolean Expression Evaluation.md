@@ -31,7 +31,7 @@ print("d:",d)
 ```
 a is False
 b is True
-c: 1
+c: 2
 d: 9
 
 ```
